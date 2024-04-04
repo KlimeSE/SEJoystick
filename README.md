@@ -1,6 +1,6 @@
-# Space Engineer Joysticks
+# Space Engineers Joystick Guide
 
-This repository contains guides for joystick controls for Space Engineers. We have guides for different joystick brands. 
+This repository contains guides and configs for Space Engineers josytick controls 
 
 ## Guides
 
